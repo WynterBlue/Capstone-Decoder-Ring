@@ -13,6 +13,8 @@ Includes:
 Type of substitution cipher originally used by Julius Caesar to protect messages of military significance.
 It relies on taking the alphabet and "shifting" letters to the right or left, based on the typical alphabetic order.
 
+For example, if you were to "shift" the alphabet to the right by 3, the letter A would become D.
+
   ---
   ### Polybius Square
    |  | 1 | 2 | 3 | 4 | 5 |
